@@ -1,12 +1,33 @@
+#top {
+    margin-top: 15px;
+    margin-right: 70%;
+}
+
+a {
+    color: white;
+    font-size: large;
+}
+
+.top-bar-title {
+    flex: auto;
+}
+
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Fredoka One', cursive;
+    font-size: xxx-large;
+  }
+
 .topbar-sticky-shrink {
-  padding: 2rem;
+  /* padding: 2rem; */
   transition: padding 0.25s ease;
-  background: purple;
-  height: 150px;
+  background: darkslategray;
 }
   
 .topbar-sticky-shrink .menu {
-  background: black;
+  background: darkslategray;
 }
   
 .is-stuck .topbar-sticky-shrink {

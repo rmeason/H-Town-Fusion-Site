@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-            <TopBar />
+        <TopBar />
         <Switch>
           <Route extract path={["/", "/home"]}>
             <HomePage />

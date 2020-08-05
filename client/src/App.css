@@ -1,3 +1,9 @@
+body {
+  background-image: url(./img/Logo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .App {
   text-align: center;
 }

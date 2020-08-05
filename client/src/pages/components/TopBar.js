@@ -1,5 +1,6 @@
 import React from 'react';
-import "./TopBar.css"
+import "./TopBar.css";
+import Logo from "../../img/Logo.jpg";
 
 function TopBar() {
     return(
@@ -8,13 +9,13 @@ function TopBar() {
   <div data-sticky data-margin-top='0' data-top-anchor="header:bottom" data-btm-anchor="content:bottom">
     <div class="top-bar topbar-sticky-shrink">
       <div class="top-bar-title">
-        <img src="https://placehold.it/150x38" alt="logo" />
+        <p id="top" class="rainbow-text">H-Town Fusion</p>
       </div>
       <div class="top-bar-right">
         <ul class="menu">
-          <li><a href="#">Thing 1</a></li>
-          <li><a href="#">Thing 2</a></li>
-          <li><a href="#">Thing 3</a></li>
+          <li><a href="/, /home">Home</a></li>
+          <li><a href="/news">News</a></li>
+          <li><a href="/community">Community</a></li>
         </ul>
       </div>
     </div>
