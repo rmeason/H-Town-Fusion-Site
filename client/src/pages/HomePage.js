@@ -1,5 +1,6 @@
 import React from 'react';
 import "./HomePage.css";
+import aboutImg from "../img/h-town-about.jpg";
 
 function HomePage() {
     return(
@@ -8,7 +9,7 @@ function HomePage() {
   <div class="row">
     <div class="small-12 medium-4 columns">
       <div class="author-image">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/480px-President_Barack_Obama.jpg" />
+        <img src={aboutImg} />
       </div>
       <div class="author-social">
         <a href="#">
