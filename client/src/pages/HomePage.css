@@ -1,7 +1,7 @@
 body {
-    background-image: url(../img/Logo.jpg);
-    background-repeat: no-repeat;
-}
+      background-image: linear-gradient(to bottom right, violet, indigo, blue, red);
+      color: lightgray;
+};
   
 .about-the-author {
       color: white;
@@ -51,11 +51,11 @@ body {
 }
   
   .about-the-author .author-social .fa-stack.facebook {
-        color: #4c70ba;
+        color: #3b5998;
 }
   
   .about-the-author .author-social .fa-stack.facebook:hover, .about-the-author .author-social .fa-stack.facebook:focus {
-        color: #3b5998;
+        color: #4ca0ba;
 }
   
   .about-the-author .author-social .fa-stack.twitter {
@@ -66,12 +66,12 @@ body {
         color: #55acee;
 }
   
-  .about-the-author .author-social .fa-stack.linkedin {
-        color: #009ee8;
+  .about-the-author .author-social .fa-stack.instagram {
+        color: #e84200;
 }
   
-  .about-the-author .author-social .fa-stack.linkedin:hover, .about-the-author .author-social .fa-stack.linkedin:focus {
-        color: #007bb5;
+  .about-the-author .author-social .fa-stack.instagram:hover, .about-the-author .author-social .fa-stack.linkedin:focus {
+        color: #b5009d;
 }
   
   .about-the-author .author-image {
