@@ -65,10 +65,6 @@ function Footer() {
   </div>
 </footer>
 
-
-
-
-
     )
 }
 
