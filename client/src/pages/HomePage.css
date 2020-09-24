@@ -9,8 +9,8 @@ body {
       border: 1px solid #cacaca;
 }
   
-.about-the-author .separator-left {
-        text-align: left;
+.about-the-author .separator-center {
+        text-align: center;
 }
   
   .about-the-author .separator-left::before, .about-the-author .separator-left::after {

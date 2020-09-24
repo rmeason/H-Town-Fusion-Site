@@ -38,7 +38,7 @@ function HomePage() {
             </div>
           </div>
           <div class="small-12 medium-8 columns">
-            <h3 class="separator-left">About Us</h3>
+            <h3 class="separator-center">About Us</h3>
             <h5>We are H-Town Fusion, Houston’s premier fusion dancing organization, and our mission is create safer spaces.
             </h5>
             <h5>We do this by connecting dancers from all sides of Houston and the greater Texas dance communities together to share their love of dancing with a variety of music ranging from pop, hip-hop, edm, jazz, blues, latin and anything else that inspires expressive movement. Dancing is our passion and we strive to bring the creativity and connection of partner dancing to all corners of the musical spectrum, as well as introduce newcomers to a friendly and accepting dance environment.
@@ -47,18 +47,6 @@ function HomePage() {
             </h5>
           </div>
         </div>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
         <br />
         <br />
         <br />
